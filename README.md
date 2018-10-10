@@ -4,7 +4,7 @@ Rscript for chromosome block-wise compartment identification.
 
 R (>3.0) with rioja package.
 
-CscoreTool
+CscoreTool (https://github.com/scoutzxb/CscoreTool)
 
 awk
 ## Introduction
