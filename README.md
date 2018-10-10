@@ -1,7 +1,9 @@
 # local-compartment identification
 Rscript for chromosome block-wise compartment identification.
 ## Depedency
+
 R (>3.0) with rioja package.
+
 CscoreTool
 awk
 ## Introduction
