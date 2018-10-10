@@ -9,7 +9,7 @@ if(length(Args)!=5){
 }
 bin_ord_fh <- Args[1] 
 #'tomato_hic/hic_results/matrix/tomato3/raw/100000/tomato3_100000_ord.bed'
-re1 <- Args[2]      #1e5
+re1 <- as.integer(Args[2])     #1e5
 raw_fh <- Args[3] 
 #tomato_hic/hic_results/matrix/tomato3/iced/100000/tomato3_100000_iced.matrix
 all_valid <- Args[4]
