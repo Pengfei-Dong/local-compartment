@@ -5,6 +5,7 @@ Rscript for chromosome block-wise compartment identification.
 R (>3.0) with rioja package.
 
 CscoreTool
+
 awk
 ## Introduction
 This scirpt use HiC-Pro format result to identify local compartment in plant genome.
